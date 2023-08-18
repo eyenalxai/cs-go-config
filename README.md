@@ -1,3 +1,3 @@
 ```
--novid -console -nojoy +exec omavleu.cfg
+-novid -nojoy +exec omavleu.cfg
 ```
